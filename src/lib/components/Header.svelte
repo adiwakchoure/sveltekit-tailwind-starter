@@ -2,7 +2,7 @@
 	import { language } from '@inlang/sdk-js';
 
 	import LocaleSwitcher from '$components/LocaleSwitcher.svelte';
-	import ThemeSwitcher from '$components/ThemeSwitcher.svelte';
+	// import ThemeSwitcher from '$components/ThemeSwitcher.svelte';
 </script>
 
 <header>
@@ -12,5 +12,5 @@
 
 	<LocaleSwitcher />
 
-	<ThemeSwitcher />
+	<!-- <ThemeSwitcher /> -->
 </header>
