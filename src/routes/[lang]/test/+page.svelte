@@ -4,4 +4,3 @@
 
 {i('talk')}
 <p class="font-serif">{i('talk')}</p>
-```

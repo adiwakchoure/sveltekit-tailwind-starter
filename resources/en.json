@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome to SvelteKit",
-  "talk":"This is a simple example of a SvelteKit app with i18n support",
+  "talk": "This is a simple example of a SvelteKit app with i18n support",
   "description": "Visit <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> to read the documentation",
   "locales": {
     "description": "Change language",
