@@ -13,7 +13,7 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				sans: ['Inter', ...fontFamily.sans],
-				serif: ['Didot', ...fontFamily.sans]
+				serif: ['Didot', ...fontFamily.sans],
 			}
 		}
 	},

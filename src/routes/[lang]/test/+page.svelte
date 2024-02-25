@@ -2,5 +2,6 @@
     import { i } from '@inlang/sdk-js';
 </script>
 
-{i('talk')}
+<div class="flex flex-col gap-4">
 <p class="font-serif">{i('talk')}</p>
+</div>
