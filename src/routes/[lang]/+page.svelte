@@ -8,5 +8,5 @@
 	<HeadHrefLangs />
 </svelte:head>
 
-<h1 class="text-5xl font-extralight">{i('welcome')}</h1>
+<h1 class="text-5xl font-didot">{i('welcome')}</h1>
 <p>{@html i('description')}</p>
